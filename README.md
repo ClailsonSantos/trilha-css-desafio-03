@@ -1,5 +1,4 @@
 # Classificador de Nível de Herói 🦸‍♂️🦸‍♀️
-Descrição 📜
 Este projeto tem como objetivo classificar um herói de acordo com a quantidade de experiência (XP) que ele possui. O programa recebe o nome do herói e seu XP, e determina em qual nível de habilidade ele se encontra com base em faixas de XP pré-definidas.
 
 # Níveis de Herói 🎮:
